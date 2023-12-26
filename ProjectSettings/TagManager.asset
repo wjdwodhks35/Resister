@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Minimap_C
+  - Enemy
+  - Minimap_P
+  - SecondCamera
+  - BulletSpawn
+  - Weapon
+  - LevelPart
+  - Dummie
   layers:
   - Default
   - TransparentFX
@@ -12,12 +20,12 @@ TagManager:
   - Water
   - UI
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Minimap_P
+  - Minimap_C
+  - Minimap_E
+  - Player
+  - Enemy
+  - Ground
   - 
   - 
   - 
